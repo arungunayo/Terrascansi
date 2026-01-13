@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2E8B57"              # main accent (buttons, sliders) → SeaGreen
+backgroundColor = "#F0FFF0"           # page background → Honeydew (soft green tint)
+secondaryBackgroundColor = "#E0FFE0"  # sidebar background → pale mint green
+textColor = "#003300"                 # dark green text
+font = "sans serif"
