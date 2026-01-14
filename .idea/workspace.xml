@@ -4,51 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="111d784a-70e6-4aed-81c2-40202b3a6abc" name="Changes" comment="moved pages into the required directory">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/terrariscan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/0_Urban_heat_Island.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/1_LST_Map.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/2_Dataupload.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/3_Vegetation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/4_Recommendations.py" beforeDir="false" />
+    <list default="true" id="17fe7177-9de8-4291-b3dd-cb511e042758" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/terrariscan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/terrariscan.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;arungunayo&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arungunayo"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/arungunayo/Terrariscan.git&quot;,
-    &quot;accountId&quot;: &quot;d9f51c1a-f622-4fb8-9146-dff5f578d2c7&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/arungunayo/Terrariscan.git",
+    "accountId": "d9f51c1a-f622-4fb8-9146-dff5f578d2c7"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="38AlMwU8L02PZbHXxzlJKpzMpDq" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="38EgLe6mZFiZqo8pegxrA8Vig5P" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,13 +43,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.example.executor": "Run",
-    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,11 +55,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\aroha\terrariscan\pages" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,44 +65,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="111d784a-70e6-4aed-81c2-40202b3a6abc" name="Changes" comment="" />
-      <created>1768250211823</created>
+      <changelist id="17fe7177-9de8-4291-b3dd-cb511e042758" name="Changes" comment="" />
+      <created>1768370092780</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1768250211823</updated>
-      <workItem from="1768250212941" duration="1799000" />
-      <workItem from="1768275248699" duration="3448000" />
-      <workItem from="1768324137965" duration="2672000" />
+      <updated>1768370092780</updated>
+      <workItem from="1768370092785" duration="358000" />
     </task>
-    <task id="LOCAL-00001" summary="basic repo structure + ndvi function">
-      <option name="closed" value="true" />
-      <created>1768275457610</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1768275457610</updated>
-    </task>
-    <task id="LOCAL-00002" summary="moved pages into the required directory">
-      <option name="closed" value="true" />
-      <created>1768324568408</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1768324568408</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="basic repo structure + ndvi function" />
-    <MESSAGE value="moved pages into the required directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved pages into the required directory" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/terrariscan$main.coverage" NAME="main Coverage Results" MODIFIED="1768251077198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/terrariscan$example.coverage" NAME="example Coverage Results" MODIFIED="1768308649924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
